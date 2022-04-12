@@ -23,7 +23,7 @@
   "author": "Jaime Silva",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.6.0",
     "@hashicorp/nextjs-scripts": "^19.0.3",
     "rehype-parse": "^6.0.2",
     "remark-parse": "^8.0.3",
