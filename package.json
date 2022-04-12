@@ -1,6 +1,5 @@
 {
-  "name": "@hashicorp/gh-action-check-broken-links",
-  "version": "0.0.0",
+  "name": "@jasilez/gh-action-check-broken-links",
   "description": "A GitHub Action that checks for the presence of broken links",
   "main": "lib/main.js",
   "scripts": {
@@ -21,7 +20,7 @@
     "link",
     "check"
   ],
-  "author": "Kevin Pruett",
+  "author": "Jaime Silva",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.4",
